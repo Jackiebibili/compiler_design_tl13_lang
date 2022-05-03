@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+examples
+lib
+screenshots
+src/err.log
+src/program
+src/out.c
